@@ -1,0 +1,25 @@
+.icon {
+  color: aliceblue;
+}
+.videos {
+  height: 400px;
+  width: 680;
+  margin-left: 619px;
+  margin-top: 34px;
+}
+.selecting-container {
+  display: flex;
+  justify-content: end;
+  padding: none;
+  justify-content: space-around;
+  overflow: hidden;
+}
+.selecting {
+  position: fixed;
+  left: 10%;
+  height: 600px;
+  width: 600px;
+  border: 1px solid black;
+  border-radius: 50%;
+  text-align: center;
+}
